@@ -2,3 +2,4 @@
 
 `git reflog`
 `git reset --hard <hash commit>`
+
